@@ -1,0 +1,20 @@
+.list-users-container {
+    width: 700px;
+    margin: 30px auto;
+    .list-users-content {
+
+        display: flex;
+        justify-content: start;
+        flex-wrap: wrap;
+        .child {
+            margin: 10px 15px;
+
+            .child-img {
+
+            }
+            .child-text {
+
+            }
+        }
+    }
+}
